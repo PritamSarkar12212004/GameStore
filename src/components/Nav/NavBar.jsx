@@ -5,7 +5,7 @@ import Avatars from "../avatar/Avatars";
 function NavBar() {
   return (
     <div className="w-full sticky top-0 h-12 bg-[#7C00FE]/100 backdrop-blur-lg flex items-center text-white text-xl border-b-[1px] border-zinc-800 gap-10 px-5 justify-between">
-      <img className="h-full" src="src/public/Logo/logo.png" alt="" />
+      <img className="h-full" src="/Logo/logo.png" alt="" />
       <div className="flex gap-20">
         <ul className="flex gap-10">
           <li>
