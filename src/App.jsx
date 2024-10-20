@@ -1,6 +1,5 @@
 import React from "react";
 import NavBar from "./components/Nav/NavBar";
-import Home from "./components/page/home/Home";
 import RoutesPath from './routes/RoutesPath'
 
 function App() {
