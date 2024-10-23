@@ -4,7 +4,7 @@ function Rock() {
   return (
     <div className=" h-[93vh] w-[100vw]  overflow-y-auto" >
       <iframe
-        src="https://www.kennyyipcoding.com/whac-a-mole/"
+        src="https://www.kennyyipcoding.com/Rock-Paper-Scissors/"
         width="100%"
         height="100%"
         title="Whac-a-mole Game"

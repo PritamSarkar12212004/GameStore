@@ -3,7 +3,7 @@ import { NavLink } from "react-router-dom";
 
 function SideBar() {
   const eGamesForChildren = [
-    "whac-a-mole",
+    "Rock-Paper-Scissors",
     "flappy-bird",
     "Doodlejump",
     "CandyCarsh",
